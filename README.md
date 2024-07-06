@@ -1,2 +1,4 @@
 # tela de loguin
- PrimeiroProgetoOficial
+ Primeiro progeto oficial
+
+So um progeto feito por um amador programador.
