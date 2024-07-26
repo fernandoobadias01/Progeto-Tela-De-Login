@@ -12,5 +12,4 @@
 ![Captura de tela 2024-07-26 104538](https://github.com/user-attachments/assets/bccbdf18-93bd-45cb-aeb5-4496ae058ef6)
 ![Captura de tela 2024-07-26 104557](https://github.com/user-attachments/assets/13ac1300-88a3-494f-9a03-f92f135cb279)
 
-
- 
+### inspirado em um curso de programação.
